@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Earth Member=EARTH
+Removed Member From Class: ClassName=Primary Member=EARTH
+Change Net Name : Old Net Name=EARTH New Net Name=CHASSIS
+Added Member To Class: ClassName=Earth Member=Wire CHASSIS
+Added Member To Class: ClassName=Primary Member=Wire CHASSIS

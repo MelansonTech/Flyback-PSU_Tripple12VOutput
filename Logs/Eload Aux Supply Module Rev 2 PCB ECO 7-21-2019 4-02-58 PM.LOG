@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=12VC_GND Pin=T1-5
+Removed Pin From Net: NetName=VTR_12VC Pin=T1-6
+Removed Pin From Net: NetName=12VA_GND Pin=T1-9
+Removed Pin From Net: NetName=VTR_12VA Pin=T1-10
+Added Pin To Net: NetName=12VA_GND Pin=T1-5
+Added Pin To Net: NetName=VTR_12VA Pin=T1-6
+Added Pin To Net: NetName=12VC_GND Pin=T1-9
+Added Pin To Net: NetName=VTR_12VC Pin=T1-10

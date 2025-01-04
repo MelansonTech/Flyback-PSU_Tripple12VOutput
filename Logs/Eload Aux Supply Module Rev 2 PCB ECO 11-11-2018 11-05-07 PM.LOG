@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=12VA_GND Pin=C14-1
+Removed Pin From Net: NetName=12V_A Pin=C14-2
+Removed Pin From Net: NetName=12V_B Pin=TP4-1
+Removed Pin From Net: NetName=NetR9_1 Pin=TP5-1
+Removed Pin From Net: NetName=NetR13_1 Pin=TP6-1
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap,0805,470nf,25V,10%,CGA4J2X7R1E474K125AA New DesignItemId=Cap,0805,100nf,50V,5%,08055C104JAT2A
+Change Component DesignItemId : Designator=R13 Old DesignItemId=Res,0805,0.0O,150V New DesignItemId=Res,0805,0.0O,150V
+Change Component DesignItemId : Designator=R16 Old DesignItemId=Res,0805,0.0O,150V New DesignItemId=Res,0805,0.0O,150V
+Change Component DesignItemId : Designator=R14 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R17 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R21 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R15 Old DesignItemId=Res,0805,36KO,1 %,100ppm,150 V,CRCW080536K0FKEA New DesignItemId=Res,0805,36KO,1 %,100ppm,150 V,CRCW080536K0FKEA
+Change Component DesignItemId : Designator=R8 Old DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA New DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA New DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA
+Change Component DesignItemId : Designator=R10 Old DesignItemId=Res,0805,681.0 O,±1%,100.0 ppm/°C,150.0 V,CRCW0805681RFKEA New DesignItemId=Res,0805,681.0 O,±1%,100.0 ppm/°C,150.0 V,CRCW0805681RFKEA
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R19 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R20 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res,2010,10.0O,±5%,1W,400V New DesignItemId=Res,2010,10.0O,±5%,1W,400V
+Change Component DesignItemId : Designator=TP3 Old DesignItemId=Test Point; Yellow; Thru-Hole; Snap-Fit,Keystone   5014 New DesignItemId=Test Point, Tektronix Scope Probe Short Lead Test Point
+Change Component DesignItemId : Designator=TP4 Old DesignItemId=Test Point; Yellow; Thru-Hole; Snap-Fit,Keystone   5014 New DesignItemId=Test Point, Tektronix Scope Probe Short Lead Test Point
+Change Component DesignItemId : Designator=TP5 Old DesignItemId=Test Point; Yellow; Thru-Hole; Snap-Fit,Keystone   5014 New DesignItemId=Test Point, Tektronix Scope Probe Short Lead Test Point
+Change Component DesignItemId : Designator=TP6 Old DesignItemId=Test Point; Yellow; Thru-Hole; Snap-Fit,Keystone   5014 New DesignItemId=Test Point, Tektronix Scope Probe Short Lead Test Point
+Change Component Footprint: Designator=TP3 Old Footprint=Test Point, Keystone 5014 New Footprint=ScopeProbe_TP-Tektronix
+Change Component Footprint: Designator=TP4 Old Footprint=Test Point, Keystone 5014 New Footprint=ScopeProbe_TP-Tektronix
+Change Component Footprint: Designator=TP5 Old Footprint=Test Point, Keystone 5014 New Footprint=ScopeProbe_TP-Tektronix
+Change Component Footprint: Designator=TP6 Old Footprint=Test Point, Keystone 5014 New Footprint=ScopeProbe_TP-Tektronix
+Change Component Comment : Designator=C13 Old Comment=CGA4J2X7R1E474K125AA New Comment=08055C104JAT2A
+Change Component Comment : Designator=TP3 Old Comment=Keystone 5014 New Comment=Scope Probe TP
+Change Component Comment : Designator=TP4 Old Comment=Keystone 5014 New Comment=Scope Probe TP
+Change Component Comment : Designator=TP5 Old Comment=Keystone 5014 New Comment=Scope Probe TP
+Change Component Comment : Designator=TP6 Old Comment=Keystone 5014 New Comment=Scope Probe TP
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=Earth NewDesignator=Earth1
+Change Component Designator: OldDesignator=Line NewDesignator=Line1
+Change Component Designator: OldDesignator=Neutral NewDesignator=Neutral1
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP18
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U10 NewDesignator=U4
+Change Component Description : Designator=C13 Old Description=0.47µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric) New Description=Capacitor; Ceramic; Cap 0.1 uF; Tol 5%; Vol-Rtg 50 VDC; SMT; 0805; X7R; Tape & Reel
+Change Component Library : Designator=C9 Old Library=Master Oct28_2018.IntLib New Library=Master Oct28_2018.SchLib
+Change Component Library : Designator=C13 Old Library=Master Oct28_2018.IntLib New Library=Master Oct28_2018.SchLib
+Change Component Library : Designator=C15 Old Library=Master Oct28_2018.IntLib New Library=Master Oct28_2018.SchLib
+Change Component Kind : Designator=TP6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP3 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=C14(CAP, 0805, HD)
+Added Component: Designator=C22(Cap, SMD, polerized, 5mm spacing)
+Added Component: Designator=C23(CAP, 0805, HD)
+Added Component: Designator=D8(SOD123)
+Added Component: Designator=J1(Conn, wire to pcb terminal,282841-8)
+Added Component: Designator=TP7(Test Point, Keystone 5014)
+Added Component: Designator=TP8(Test Point, Keystone 5014)
+Added Component: Designator=TP9(Test Point, Keystone 5014)
+Added Component: Designator=TP10(Test Point, Keystone 5014)
+Added Pin To Net: NetName=12V_A Pin=C13-2
+Added Pin To Net: NetName=12VA_GND Pin=C13-1
+Added Pin To Net: NetName=V_AUX Pin=C22-1
+Added Pin To Net: NetName=GND_P Pin=C22-2
+Added Pin To Net: NetName=GND_P Pin=C23-1
+Added Pin To Net: NetName=V_AUX Pin=C23-2
+Added Pin To Net: NetName=V_AUX Pin=C24-2
+Added Pin To Net: NetName=V_AUX Pin=D8-1
+Added Pin To Net: NetName=GND_P Pin=D8-2
+Added Pin To Net: NetName=15VA_GND Pin=J1-1
+Added Pin To Net: NetName=5V_A Pin=J1-2
+Added Pin To Net: NetName=15VA_GND Pin=J1-3
+Added Pin To Net: NetName=15V_A Pin=J1-4
+Added Pin To Net: NetName=15VB_GND Pin=J1-5
+Added Pin To Net: NetName=15V_B Pin=J1-6
+Added Pin To Net: NetName=15VC_GND Pin=J1-7
+Added Pin To Net: NetName=15V_C Pin=J1-8
+Added Pin To Net: NetName=NetD2_2 Pin=TP3-2
+Added Pin To Net: NetName=12VB_GND Pin=TP4-1
+Added Pin To Net: NetName=NetD5_2 Pin=TP4-2
+Added Pin To Net: NetName=GND_P Pin=TP5-1
+Added Pin To Net: NetName=NetD7_1 Pin=TP5-2
+Added Pin To Net: NetName=12VC_GND Pin=TP6-1
+Added Pin To Net: NetName=NetD9_2 Pin=TP6-2
+Added Pin To Net: NetName=12VA_GND Pin=TP3-1
+Added Pin To Net: NetName=12V_B Pin=TP4-1
+Added Pin To Net: NetName=NetR9_1 Pin=TP5-1
+Added Pin To Net: NetName=NetR13_1 Pin=TP6-1
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC9_2
+Added Pin To Net: NetName=NetC14_2 Pin=C13-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-6
+Added Net: Name=NetC14_2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C22 Nichicon UCW1V470MCL1GS
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C23 AVX 08053C225KAT2A
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D8 MMSZ5250BT1G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J1 TE Connectivity 282841-8
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP15 Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP16 Scope Probe TP
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP17 Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP18 Keystone 5014

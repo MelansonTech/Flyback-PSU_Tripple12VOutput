@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetC15_2 Pin=L1-1
+Removed Pin From Net: NetName=NetC15_2 Pin=U1-3
+Added Component: Designator=C12(CAP, 0805, HD)
+Added Component: Designator=C14(CAP, 0805, HD)
+Added Component: Designator=C15(CAP, 0805, HD)
+Added Component: Designator=D2(DO-214AC, SMA)
+Added Component: Designator=D4(SOD123)
+Added Component: Designator=D5(DO-214AC, SMA)
+Added Component: Designator=D6(SOD123)
+Added Component: Designator=D8(SOD123)
+Added Component: Designator=D9(DO-214AC, SMA)
+Added Component: Designator=D10(SOD123)
+Added Pin To Net: NetName=12VA_GND Pin=C14-1
+Added Pin To Net: NetName=12V_A Pin=C14-2
+Added Pin To Net: NetName=12VA_GND Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=12V_A Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=12V_A Pin=D4-1
+Added Pin To Net: NetName=12VA_GND Pin=D4-2
+Added Pin To Net: NetName=12V_B Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=12V_B Pin=D6-1
+Added Pin To Net: NetName=12VB_GND Pin=D6-2
+Added Pin To Net: NetName=V_AUX Pin=D8-1
+Added Pin To Net: NetName=GND_P Pin=D8-2
+Added Pin To Net: NetName=12V_C Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=12V_C Pin=D10-1
+Added Pin To Net: NetName=12VC_GND Pin=D10-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-8
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=L1-1
+Added Pin To Net: NetName=NetC12_1 Pin=U1-3
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-1
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C12 08055C104JAT2A
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C14 08055C104JAT2A
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C15 08055C104JAT2A
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D2 NRVTSA4100ET3G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D4 MMSZ4705T1G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D5 NRVTSA4100ET3G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D6 MMSZ4705T1G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D8 MMSZ4705T1G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D9 NRVTSA4100ET3G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D10 MMSZ4705T1G

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=V3_S Member=12V_B
+Removed Member From Class: ClassName=V3_S Member=12V_C
+Removed Member From Class: ClassName=V3_S Member=12VB_GND
+Removed Member From Class: ClassName=V3_S Member=12VC_GND
+Removed Member From Class: ClassName=V3_S Member=NetC14_1
+Removed Member From Class: ClassName=V3_S Member=NetR10_1
+Removed Member From Class: ClassName=V3_S Member=VTR_12VB
+Removed Member From Class: ClassName=V3_S Member=VTR_12VC
+Change Class Name : Old Net Name=V3_S New Net Name=VA_S
+Added Class: Name=Earth
+Added Class: Name=Line
+Added Class: Name=Neutral
+Added Class: Name=V3_S
+Added Class: Name=VB_S
+Added Class: Name=VC_S

@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Cap,1210,10uF,25V,10%,C1210X106K3RACTU New DesignItemId=CAP,1206,10uF,25V,C3216X7R1E106K160AB
+Change Component Footprint: Designator=C12 Old Footprint=Cap,1210 New Footprint=Cap, 1206
+Change Component Comment : Designator=C12 Old Comment=Kemet C1210X106K3RACTU New Comment=Cap
+Added Component: Designator=C21(Cap, 1206)
+Added Component: Designator=C22(Cap, 1206)
+Added Pin To Net: NetName=12VC_GND Pin=C21-1
+Added Pin To Net: NetName=12V_C Pin=C21-2
+Added Pin To Net: NetName=12VC_GND Pin=C22-1
+Added Pin To Net: NetName=12V_C Pin=C22-2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C21 Cap
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C22 Cap

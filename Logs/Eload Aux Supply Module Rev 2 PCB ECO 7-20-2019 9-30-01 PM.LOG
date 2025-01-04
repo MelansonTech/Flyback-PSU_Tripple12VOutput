@@ -1,0 +1,5 @@
+Added Component: Designator=J1(conn, IEC320,703W-00/54)
+Added Pin To Net: NetName=LINE Pin=J1-1
+Added Pin To Net: NetName=EARTH Pin=J1-2
+Added Pin To Net: NetName=NEUTRAL Pin=J1-3
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J1 Qualtek 703W-00/54

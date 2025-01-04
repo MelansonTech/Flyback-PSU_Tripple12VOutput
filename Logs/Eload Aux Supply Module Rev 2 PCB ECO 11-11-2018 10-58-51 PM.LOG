@@ -1,0 +1,8 @@
+Added Component: Designator=C22(Cap, SMD, polerized, 5mm spacing)
+Added Component: Designator=C23(CAP, 0805, HD)
+Added Pin To Net: NetName=V_AUX Pin=C22-1
+Added Pin To Net: NetName=GND_P Pin=C22-2
+Added Pin To Net: NetName=GND_P Pin=C23-1
+Added Pin To Net: NetName=V_AUX Pin=C23-2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C22 Nichicon UCW1V470MCL1GS
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C23 AVX 08053C225KAT2A

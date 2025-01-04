@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_AUX Pin=R13-1
+Removed Member From Class: ClassName=Eload Aux Supply Module Rev 2 Member=R13
+Removed Member From Class: ClassName=LV_P Member=NetD9_3
+Removed Member From Class: ClassName=Primary Member=NetD9_3
+Added Pin To Net: NetName=V_AUX Pin=D9-3

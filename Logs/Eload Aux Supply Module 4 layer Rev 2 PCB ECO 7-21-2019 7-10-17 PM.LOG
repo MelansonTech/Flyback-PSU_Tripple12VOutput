@@ -1,0 +1,184 @@
+Added Pin To Net: NetName=12V_A Pin=C1-1
+Added Pin To Net: NetName=12V_A Pin=C2-2
+Added Pin To Net: NetName=12V_A Pin=D1-1
+Added Pin To Net: NetName=12V_A Pin=D2-1
+Added Pin To Net: NetName=12V_A Pin=J2-1
+Added Pin To Net: NetName=12V_A Pin=R6-2
+Added Pin To Net: NetName=12V_A Pin=R7-2
+Added Pin To Net: NetName=12V_A Pin=R8-2
+Added Net: Name=12V_A
+Added Pin To Net: NetName=12V_AUX_TR Pin=D9-1
+Added Pin To Net: NetName=12V_AUX_TR Pin=R9-2
+Added Pin To Net: NetName=12V_AUX_TR Pin=T1-3
+Added Net: Name=12V_AUX_TR
+Added Pin To Net: NetName=12V_B Pin=C10-1
+Added Pin To Net: NetName=12V_B Pin=C11-2
+Added Pin To Net: NetName=12V_B Pin=D4-1
+Added Pin To Net: NetName=12V_B Pin=D5-1
+Added Pin To Net: NetName=12V_B Pin=J4-1
+Added Net: Name=12V_B
+Added Pin To Net: NetName=12V_C Pin=C12-1
+Added Pin To Net: NetName=12V_C Pin=C13-2
+Added Pin To Net: NetName=12V_C Pin=D7-1
+Added Pin To Net: NetName=12V_C Pin=D8-1
+Added Pin To Net: NetName=12V_C Pin=J6-1
+Added Net: Name=12V_C
+Added Pin To Net: NetName=12VA_GND Pin=C1-2
+Added Pin To Net: NetName=12VA_GND Pin=C2-1
+Added Pin To Net: NetName=12VA_GND Pin=D2-2
+Added Pin To Net: NetName=12VA_GND Pin=J2-2
+Added Pin To Net: NetName=12VA_GND Pin=R18-1
+Added Pin To Net: NetName=12VA_GND Pin=T1-5
+Added Pin To Net: NetName=12VA_GND Pin=U3-3
+Added Net: Name=12VA_GND
+Added Pin To Net: NetName=12VB_GND Pin=C10-2
+Added Pin To Net: NetName=12VB_GND Pin=C11-1
+Added Pin To Net: NetName=12VB_GND Pin=D5-2
+Added Pin To Net: NetName=12VB_GND Pin=J4-2
+Added Pin To Net: NetName=12VB_GND Pin=T1-7
+Added Net: Name=12VB_GND
+Added Pin To Net: NetName=12VC_GND Pin=C12-2
+Added Pin To Net: NetName=12VC_GND Pin=C13-1
+Added Pin To Net: NetName=12VC_GND Pin=D8-2
+Added Pin To Net: NetName=12VC_GND Pin=J6-2
+Added Pin To Net: NetName=12VC_GND Pin=T1-9
+Added Net: Name=12VC_GND
+Added Pin To Net: NetName=EARTH Pin=C3-1
+Added Pin To Net: NetName=EARTH Pin=C9-2
+Added Pin To Net: NetName=EARTH Pin=J1-2
+Added Pin To Net: NetName=EARTH Pin=M1-0
+Added Pin To Net: NetName=EARTH Pin=M2-0
+Added Pin To Net: NetName=EARTH Pin=M3-0
+Added Pin To Net: NetName=EARTH Pin=M4-0
+Added Pin To Net: NetName=EARTH Pin=MOV1-1
+Added Pin To Net: NetName=EARTH Pin=MOV2-2
+Added Net: Name=EARTH
+Added Pin To Net: NetName=GND_P Pin=C4-1
+Added Pin To Net: NetName=GND_P Pin=C5-1
+Added Pin To Net: NetName=GND_P Pin=C6-1
+Added Pin To Net: NetName=GND_P Pin=C15-1
+Added Pin To Net: NetName=GND_P Pin=C16-1
+Added Pin To Net: NetName=GND_P Pin=C18-2
+Added Pin To Net: NetName=GND_P Pin=C19-1
+Added Pin To Net: NetName=GND_P Pin=C20-1
+Added Pin To Net: NetName=GND_P Pin=D3-2
+Added Pin To Net: NetName=GND_P Pin=D10-2
+Added Pin To Net: NetName=GND_P Pin=R11-1
+Added Pin To Net: NetName=GND_P Pin=R15-1
+Added Pin To Net: NetName=GND_P Pin=R16-1
+Added Pin To Net: NetName=GND_P Pin=R17-1
+Added Pin To Net: NetName=GND_P Pin=T1-4
+Added Pin To Net: NetName=GND_P Pin=U1-12
+Added Pin To Net: NetName=GND_P Pin=U2-3
+Added Net: Name=GND_P
+Added Pin To Net: NetName=LINE Pin=F1-1
+Added Pin To Net: NetName=LINE Pin=J1-1
+Added Net: Name=LINE
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C7-2
+Added Pin To Net: NetName=NetC3_2 Pin=CM1-3
+Added Pin To Net: NetName=NetC3_2 Pin=F1-2
+Added Pin To Net: NetName=NetC3_2 Pin=MOV1-2
+Added Pin To Net: NetName=NetC3_2 Pin=MOV3-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R3-1
+Added Pin To Net: NetName=NetC8_1 Pin=R5-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R8-1
+Added Pin To Net: NetName=NetC14_1 Pin=R14-2
+Added Pin To Net: NetName=NetC14_1 Pin=U2-2
+Added Pin To Net: NetName=NetC14_1 Pin=U3-1
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=C17-1
+Added Pin To Net: NetName=NetC14_2 Pin=R12-1
+Added Pin To Net: NetName=NetC14_2 Pin=R18-2
+Added Pin To Net: NetName=NetC14_2 Pin=U3-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=R9-1
+Added Pin To Net: NetName=NetC15_2 Pin=R11-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-1
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=U1-2
+Added Pin To Net: NetName=NetC16_2 Pin=U2-4
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=R14-1
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetCM1_2 Pin=CM1-2
+Added Pin To Net: NetName=NetCM1_2 Pin=D3-3
+Added Net: Name=NetCM1_2
+Added Pin To Net: NetName=NetCM1_4 Pin=CM1-4
+Added Pin To Net: NetName=NetCM1_4 Pin=D3-4
+Added Net: Name=NetCM1_4
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=T1-2
+Added Pin To Net: NetName=NetD6_1 Pin=U1-5
+Added Pin To Net: NetName=NetD6_1 Pin=U1-6
+Added Pin To Net: NetName=NetD6_1 Pin=U1-7
+Added Pin To Net: NetName=NetD6_1 Pin=U1-8
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R5-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R10-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R12-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=R16-2
+Added Pin To Net: NetName=NetR15_2 Pin=R17-2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-4
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NEUTRAL Pin=C7-1
+Added Pin To Net: NetName=NEUTRAL Pin=C9-1
+Added Pin To Net: NetName=NEUTRAL Pin=CM1-1
+Added Pin To Net: NetName=NEUTRAL Pin=J1-3
+Added Pin To Net: NetName=NEUTRAL Pin=MOV2-1
+Added Pin To Net: NetName=NEUTRAL Pin=MOV3-1
+Added Net: Name=NEUTRAL
+Added Pin To Net: NetName=V_AUX Pin=C18-1
+Added Pin To Net: NetName=V_AUX Pin=C19-2
+Added Pin To Net: NetName=V_AUX Pin=C20-2
+Added Pin To Net: NetName=V_AUX Pin=D9-3
+Added Pin To Net: NetName=V_AUX Pin=D10-1
+Added Pin To Net: NetName=V_AUX Pin=U1-11
+Added Net: Name=V_AUX
+Added Pin To Net: NetName=V_BUS Pin=C4-2
+Added Pin To Net: NetName=V_BUS Pin=C5-2
+Added Pin To Net: NetName=V_BUS Pin=C6-2
+Added Pin To Net: NetName=V_BUS Pin=C8-2
+Added Pin To Net: NetName=V_BUS Pin=D3-1
+Added Pin To Net: NetName=V_BUS Pin=R3-2
+Added Pin To Net: NetName=V_BUS Pin=T1-1
+Added Net: Name=V_BUS
+Added Pin To Net: NetName=VTR_12VA Pin=D1-2
+Added Pin To Net: NetName=VTR_12VA Pin=T1-6
+Added Net: Name=VTR_12VA
+Added Pin To Net: NetName=VTR_12VB Pin=D4-2
+Added Pin To Net: NetName=VTR_12VB Pin=T1-8
+Added Net: Name=VTR_12VB
+Added Pin To Net: NetName=VTR_12VC Pin=D7-2
+Added Pin To Net: NetName=VTR_12VC Pin=T1-10
+Added Net: Name=VTR_12VC
+Added Class: Name=Eload Aux Supply Module Rev 2
+Added Class: Name=Earth
+Added Class: Name=HV_P
+Added Class: Name=Line
+Added Class: Name=LV_P
+Added Class: Name=Neutral
+Added Class: Name=Primary
+Added Class: Name=Secondary
+Added Class: Name=VA_S
+Added Class: Name=VB_S
+Added Class: Name=VC_S
+Added Class: Name=Vmid_P

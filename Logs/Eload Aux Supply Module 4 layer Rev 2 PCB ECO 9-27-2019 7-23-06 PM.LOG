@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=F1-2
+Removed Member From Class: ClassName=Line Member=NetC3_2
+Removed Member From Class: ClassName=Pri_Power Member=NetC3_2
+Removed Member From Class: ClassName=Primary Member=NetC3_2
+Change Component DesignItemId : Designator=R10 Old DesignItemId=Res,0805,0.0O,150V New DesignItemId=Res,0805,0.0O,150V
+Change Component DesignItemId : Designator=R11 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R14 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res,0805,36KO,1 %,100ppm,150 V,CRCW080536K0FKEA New DesignItemId=Res,0805,36KO,1 %,100ppm,150 V,CRCW080536K0FKEA
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA New DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA
+Change Component DesignItemId : Designator=R7 Old DesignItemId=Res,0805,681.0 O,±1%,100.0 ppm/°C,150.0 V,CRCW0805681RFKEA New DesignItemId=Res,0805,681.0 O,±1%,100.0 ppm/°C,150.0 V,CRCW0805681RFKEA
+Change Component DesignItemId : Designator=R15 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R16 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R17 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res,2010,10.0O,±5%,1W,400V New DesignItemId=Res,2010,10.0O,±5%,1W,400V
+Added Component: Designator=J3(Quick connect terminal)
+Added Component: Designator=J5(Quick connect terminal)
+Added Component: Designator=TP5(ScopeProbe_TP-Tektronix)
+Added Component: Designator=TP9(Test Point, Keystone 5014)
+Added Component: Designator=TP10(Test Point, Keystone 5014)
+Added Component: Designator=TP11(Test Point, Keystone 5014)
+Added Component: Designator=TP12(Test Point, Keystone 5014)
+Added Component: Designator=TP13(ScopeProbe_TP-Tektronix)
+Added Component: Designator=TP14(ScopeProbe_TP-Tektronix)
+Added Component: Designator=TP15(Test Point, Keystone 5014)
+Added Pin To Net: NetName=NetC3_2 Pin=J5-1
+Added Pin To Net: NetName=NetC3_2 Pin=J5-1
+Added Pin To Net: NetName=GND_P Pin=TP5-1
+Added Pin To Net: NetName=NetD6_1 Pin=TP5-2
+Added Pin To Net: NetName=NetR6_1 Pin=TP9-1
+Added Pin To Net: NetName=NetR10_1 Pin=TP10-1
+Added Pin To Net: NetName=V_AUX Pin=TP11-1
+Added Pin To Net: NetName=V_AUX Pin=TP12-1
+Added Pin To Net: NetName=GND_P Pin=TP13-1
+Added Pin To Net: NetName=NetR15_2 Pin=TP13-2
+Added Pin To Net: NetName=GND_P Pin=TP14-1
+Added Pin To Net: NetName=V_AUX Pin=TP14-2
+Added Pin To Net: NetName=GND_P Pin=TP15-1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=LINE_FUSED
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=J3-1
+Added Pin To Net: NetName=NetF1_2 Pin=J3-1
+Added Net: Name=NetF1_2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J3 Wire Terminal,Quick connect, through hole, Keystone 1287-ST
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J5 Wire Terminal,Quick connect, through hole, Keystone 1287-ST
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP5 Scope Probe TP
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP9 Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP10 Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP11 Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP12 Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP13 Scope Probe TP
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP14 Scope Probe TP
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP15 Keystone 5014
+Added Member To Class: ClassName=Line Member=Wire LINE_FUSED
+Added Member To Class: ClassName=Pri_Power Member=Wire LINE_FUSED
+Added Member To Class: ClassName=Primary Member=Wire LINE_FUSED
+Added Member To Class: ClassName=Line Member=Wire NetF1_2
+Added Member To Class: ClassName=Pri_Power Member=Wire NetF1_2
+Added Member To Class: ClassName=Primary Member=Wire NetF1_2

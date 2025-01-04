@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C18 Old Footprint=CAP, 0805, HD New Footprint=Cap, 1206
+Change Component Footprint: Designator=C25 Old Footprint=CAP, 0805, HD New Footprint=Cap, 1206
+Change Component Footprint: Designator=C13 Old Footprint=Cap, 1206 New Footprint=CAP, 0805, HD
+Change Component Footprint: Designator=C14 Old Footprint=Cap, 1206 New Footprint=CAP, 0805, HD
+Change Component Comment : Designator=C18 Old Comment=AVX 08053C225KAT2A New Comment=Cap
+Change Component Comment : Designator=C13 Old Comment=Cap New Comment=AVX 08053C225KAT2A
+Change Component Comment : Designator=C14 Old Comment=Cap New Comment=CC0805KRX7R9BB221
+Change Component Comment : Designator=C25 Old Comment=CC0805KRX7R9BB221 New Comment=Cap
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C25
+Change Component Designator: OldDesignator=C18 NewDesignator=C13
+Change Component Designator: OldDesignator=C25 NewDesignator=C14
+Added Pin To Net: NetName=12VB_GND Pin=C13-1
+Added Pin To Net: NetName=12V_B Pin=C13-2
+Added Pin To Net: NetName=12VA_GND Pin=C14-1
+Added Pin To Net: NetName=12V_A Pin=C14-2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C18 AVX 08053C225KAT2A
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C25 CC0805KRX7R9BB221

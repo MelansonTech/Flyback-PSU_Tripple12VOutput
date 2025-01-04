@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=12V_C Pin=J6-1
+Removed Pin From Net: NetName=12VC_GND Pin=J6-2
+Added Pin To Net: NetName=12VC_GND Pin=J6-1
+Added Pin To Net: NetName=12V_C Pin=J6-2

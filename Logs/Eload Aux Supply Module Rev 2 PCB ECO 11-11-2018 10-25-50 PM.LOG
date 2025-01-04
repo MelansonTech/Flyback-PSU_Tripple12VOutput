@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=R13 Old DesignItemId=Res,0805,0.0O,150V New DesignItemId=Res,0805,0.0O,150V
+Change Component DesignItemId : Designator=R16 Old DesignItemId=Res,0805,0.0O,150V New DesignItemId=Res,0805,0.0O,150V
+Change Component DesignItemId : Designator=R14 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R17 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R21 Old DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA New DesignItemId=Res,0805,10.0kO,1%,100 ppm,CRCW080510K0FKTA
+Change Component DesignItemId : Designator=R15 Old DesignItemId=Res,0805,36KO,1 %,100ppm,150 V,CRCW080536K0FKEA New DesignItemId=Res,0805,36KO,1 %,100ppm,150 V,CRCW080536K0FKEA
+Change Component DesignItemId : Designator=R8 Old DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA New DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA New DesignItemId=Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA
+Change Component DesignItemId : Designator=R10 Old DesignItemId=Res,0805,681.0 O,±1%,100.0 ppm/°C,150.0 V,CRCW0805681RFKEA New DesignItemId=Res,0805,681.0 O,±1%,100.0 ppm/°C,150.0 V,CRCW0805681RFKEA
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R19 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R20 Old DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG New DesignItemId=Res,1210,10.0 O,±0.1%,200V,RP73D2B10RBTG
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res,2010,10.0O,±5%,1W,400V New DesignItemId=Res,2010,10.0O,±5%,1W,400V

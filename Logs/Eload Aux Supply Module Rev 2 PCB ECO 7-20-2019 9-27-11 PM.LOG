@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=J3-1
+Removed Pin From Net: NetName=NetC7_1 Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Member From Class: ClassName=Eload Aux Supply Module Rev 2 Member=J1
+Removed Member From Class: ClassName=Eload Aux Supply Module Rev 2 Member=J3
+Removed Member From Class: ClassName=Eload Aux Supply Module Rev 2 Member=J5
+Removed Member From Class: ClassName=Earth Member=GND
+Removed Member From Class: ClassName=Primary Member=GND
+Removed Member From Class: ClassName=Neutral Member=NetC7_1
+Removed Member From Class: ClassName=Primary Member=NetC7_1
+Removed Member From Class: ClassName=Line Member=NetF1_1
+Removed Member From Class: ClassName=Primary Member=NetF1_1
+Change Net Name : Old Net Name=GND New Net Name=EARTH
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NEUTRAL
+Added Pin To Net: NetName=LINE Pin=F1-1
+Added Net: Name=LINE
+Added Member To Class: ClassName=Earth Member=Wire EARTH
+Added Member To Class: ClassName=Primary Member=Wire EARTH
+Added Member To Class: ClassName=Line Member=Wire LINE
+Added Member To Class: ClassName=Primary Member=Wire LINE
+Added Member To Class: ClassName=Neutral Member=Wire NEUTRAL
+Added Member To Class: ClassName=Primary Member=Wire NEUTRAL

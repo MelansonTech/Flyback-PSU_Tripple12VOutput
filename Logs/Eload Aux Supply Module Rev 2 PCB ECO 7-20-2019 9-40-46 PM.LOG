@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=MOV1
+Change Component Designator: OldDesignator=R2 NewDesignator=MOV3
+Change Component Designator: OldDesignator=R4 NewDesignator=MOV2
+Added Pin To Net: NetName=NetC3_2 Pin=F1-2

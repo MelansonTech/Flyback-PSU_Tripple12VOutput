@@ -1,0 +1,14 @@
+Added Component: Designator=D8(SOD123)
+Added Component: Designator=J1(Conn, wire to pcb terminal,282841-8)
+Added Pin To Net: NetName=V_AUX Pin=D8-1
+Added Pin To Net: NetName=GND_P Pin=D8-2
+Added Pin To Net: NetName=15VA_GND Pin=J1-1
+Added Pin To Net: NetName=5V_A Pin=J1-2
+Added Pin To Net: NetName=15VA_GND Pin=J1-3
+Added Pin To Net: NetName=15V_A Pin=J1-4
+Added Pin To Net: NetName=15VB_GND Pin=J1-5
+Added Pin To Net: NetName=15V_B Pin=J1-6
+Added Pin To Net: NetName=15VC_GND Pin=J1-7
+Added Pin To Net: NetName=15V_C Pin=J1-8
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D8 MMSZ5250BT1G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J1 TE Connectivity 282841-8

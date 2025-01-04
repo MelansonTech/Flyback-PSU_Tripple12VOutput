@@ -1,0 +1,268 @@
+Removed Member From Class: ClassName=HV_P Member=NetC4_1
+Removed Member From Class: ClassName=V3_S Member=NetC18_1
+Removed Member From Class: ClassName=V3_S Member=NetC18_2
+Removed Member From Class: ClassName=LV_P Member=NetC19_2
+Removed Member From Class: ClassName=LV_P Member=NetC20_2
+Removed Member From Class: ClassName=V3_S Member=NetD2_2
+Removed Member From Class: ClassName=HV_P Member=NetD3_1
+Removed Member From Class: ClassName=HV_P Member=NetD3_2
+Removed Member From Class: ClassName=V3_S Member=NetD5_2
+Removed Member From Class: ClassName=LV_P Member=NetD7_1
+Removed Member From Class: ClassName=LV_P Member=NetD7_3
+Removed Member From Class: ClassName=V3_S Member=NetD9_2
+Removed Member From Class: ClassName=V3_S Member=NetR9_1
+Removed Member From Class: ClassName=V3_S Member=NetR10_1
+Removed Member From Class: ClassName=V3_S Member=NetR13_1
+Removed Member From Class: ClassName=LV_P Member=NetR18_2
+Added Component: Designator=C?(Cap,7.5mm,RFI)
+Added Component: Designator=C?(Cap, SMD, polerized, 5mm spacing)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(Cap,7.5mm,RFI)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(Cap, 5mm Lead Spaceing, 4mm dai)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(Cap, SMD, polerized, 5mm spacing)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(Cap, SMD, polerized, 5mm spacing)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(CAP, 0805, HD)
+Added Component: Designator=C?(Cap, SMD, polerized, 5mm spacing)
+Added Component: Designator=C?(Cap, 5mm Lead Spaceing, 4mm dai)
+Added Component: Designator=C?(Cap, Rad, 5mmLead,12.5mmDia,Pin 2+)
+Added Component: Designator=C?(Cap, Rad, 5mmLead,12.5mmDia,Pin 2+)
+Added Component: Designator=C?(CAP,RFI,15mm Lead Spaceing)
+Added Component: Designator=CM?(Common mode inductor,TLF9UA102W0R8K1)
+Added Component: Designator=D?(SOT23-3)
+Added Component: Designator=D?(Micro-DIP, 4-Leads)
+Added Component: Designator=D?(DO-214AC, SMA)
+Added Component: Designator=D?(DO-214AC, SMA)
+Added Component: Designator=D?(SOD123)
+Added Component: Designator=D?(SOD123)
+Added Component: Designator=D?(SOD123)
+Added Component: Designator=D?(DO-214AC, SMA)
+Added Component: Designator=D?(SOD123)
+Added Component: Designator=D?(DO-214AC, SMA)
+Added Component: Designator=F?(Fuse chip, SMD,9.4mm)
+Added Component: Designator=J?(Quick connect terminal)
+Added Component: Designator=J?(Quick connect terminal)
+Added Component: Designator=J?(Quick connect terminal)
+Added Component: Designator=J?(TERM BLOCK 2POS SIDE ENTRY 5MM)
+Added Component: Designator=J?(TERM BLOCK 2POS SIDE ENTRY 5MM)
+Added Component: Designator=J?(TERM BLOCK 2POS SIDE ENTRY 5MM)
+Added Component: Designator=M?(Standoff,Hex,M3,8mm)
+Added Component: Designator=M?(Standoff,Hex,M3,8mm)
+Added Component: Designator=M?(Standoff,Hex,M3,8mm)
+Added Component: Designator=M?(Standoff,Hex,M3,8mm)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(Res,1210)
+Added Component: Designator=R?(Res,1210)
+Added Component: Designator=R?(Res,1210)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(res, 0805, HD)
+Added Component: Designator=R?(Resistor,2010,1W)
+Added Component: Designator=R?(Res,1210)
+Added Component: Designator=R?(MOV, 5mm spacing)
+Added Component: Designator=R?(MOV, 5mm spacing)
+Added Component: Designator=R?(MOV, 5mm spacing)
+Added Component: Designator=T?(Transformer EE20, 10 Pos)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(ScopeProbe_TP-Tektronix)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(ScopeProbe_TP-Tektronix)
+Added Component: Designator=TP?(Test Point, Keystone 5014)
+Added Component: Designator=TP?(ScopeProbe_TP-Tektronix)
+Added Component: Designator=TP?(ScopeProbe_TP-Tektronix)
+Added Component: Designator=U?(SOP, 16-Leads)
+Added Component: Designator=U?(SOT23-3)
+Added Component: Designator=U?(SSOP, 4-Leads)
+Added Pin To Net: NetName=12V_A Pin=C?-1
+Added Pin To Net: NetName=12V_B Pin=C?-1
+Added Pin To Net: NetName=12V_C Pin=C?-1
+Added Pin To Net: NetName=12VA_GND Pin=C?-1
+Added Pin To Net: NetName=12VB_GND Pin=C?-1
+Added Pin To Net: NetName=12VC_GND Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND_P Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=V_AUX Pin=C?-1
+Added Pin To Net: NetName=12V_A Pin=C?-2
+Added Pin To Net: NetName=12V_B Pin=C?-2
+Added Pin To Net: NetName=12V_C Pin=C?-2
+Added Pin To Net: NetName=12VA_GND Pin=C?-2
+Added Pin To Net: NetName=12VB_GND Pin=C?-2
+Added Pin To Net: NetName=12VC_GND Pin=C?-2
+Added Pin To Net: NetName=GND_P Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=V_AUX Pin=C?-2
+Added Pin To Net: NetName=V_AUX Pin=C?-2
+Added Pin To Net: NetName=V_BUS Pin=C?-2
+Added Pin To Net: NetName=V_BUS Pin=C?-2
+Added Pin To Net: NetName=V_BUS Pin=C?-2
+Added Pin To Net: NetName=V_BUS Pin=C?-2
+Added Pin To Net: NetName=12V_A Pin=D?-1
+Added Pin To Net: NetName=12V_A Pin=D?-1
+Added Pin To Net: NetName=12V_B Pin=D?-1
+Added Pin To Net: NetName=12V_B Pin=D?-1
+Added Pin To Net: NetName=12V_C Pin=D?-1
+Added Pin To Net: NetName=12V_C Pin=D?-1
+Added Pin To Net: NetName=V_AUX Pin=D?-1
+Added Pin To Net: NetName=V_BUS Pin=D?-1
+Added Pin To Net: NetName=12VA_GND Pin=D?-2
+Added Pin To Net: NetName=12VB_GND Pin=D?-2
+Added Pin To Net: NetName=12VC_GND Pin=D?-2
+Added Pin To Net: NetName=GND_P Pin=D?-2
+Added Pin To Net: NetName=GND_P Pin=D?-2
+Added Pin To Net: NetName=12V_A Pin=J?-1
+Added Pin To Net: NetName=12V_B Pin=J?-1
+Added Pin To Net: NetName=12V_C Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=12VA_GND Pin=J?-2
+Added Pin To Net: NetName=12VB_GND Pin=J?-2
+Added Pin To Net: NetName=12VC_GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=M?-0
+Added Pin To Net: NetName=GND Pin=M?-0
+Added Pin To Net: NetName=GND Pin=M?-0
+Added Pin To Net: NetName=GND Pin=M?-0
+Added Pin To Net: NetName=12VA_GND Pin=R?-1
+Added Pin To Net: NetName=GND_P Pin=R?-1
+Added Pin To Net: NetName=GND_P Pin=R?-1
+Added Pin To Net: NetName=GND_P Pin=R?-1
+Added Pin To Net: NetName=GND_P Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=V_AUX Pin=R?-1
+Added Pin To Net: NetName=12V_A Pin=R?-2
+Added Pin To Net: NetName=12V_A Pin=R?-2
+Added Pin To Net: NetName=12V_A Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=V_BUS Pin=R?-2
+Added Pin To Net: NetName=V_BUS Pin=T?-1
+Added Pin To Net: NetName=GND_P Pin=T?-4
+Added Pin To Net: NetName=12VC_GND Pin=T?-5
+Added Pin To Net: NetName=12VB_GND Pin=T?-7
+Added Pin To Net: NetName=12VA_GND Pin=T?-9
+Added Pin To Net: NetName=12V_A Pin=TP?-1
+Added Pin To Net: NetName=12V_B Pin=TP?-1
+Added Pin To Net: NetName=12V_C Pin=TP?-1
+Added Pin To Net: NetName=12VA_GND Pin=TP?-1
+Added Pin To Net: NetName=12VB_GND Pin=TP?-1
+Added Pin To Net: NetName=12VC_GND Pin=TP?-1
+Added Pin To Net: NetName=GND_P Pin=TP?-1
+Added Pin To Net: NetName=GND_P Pin=TP?-1
+Added Pin To Net: NetName=GND_P Pin=TP?-1
+Added Pin To Net: NetName=GND_P Pin=TP?-1
+Added Pin To Net: NetName=GND_P Pin=TP?-1
+Added Pin To Net: NetName=V_AUX Pin=TP?-1
+Added Pin To Net: NetName=V_AUX Pin=TP?-1
+Added Pin To Net: NetName=V_AUX Pin=TP?-2
+Added Pin To Net: NetName=12VA_GND Pin=U?-3
+Added Pin To Net: NetName=GND_P Pin=U?-3
+Added Pin To Net: NetName=V_AUX Pin=U?-11
+Added Pin To Net: NetName=GND_P Pin=U?-12
+Added Pin To Net: NetName=12V_AUX_TR Pin=D?-1
+Added Pin To Net: NetName=12V_AUX_TR Pin=R?-2
+Added Pin To Net: NetName=12V_AUX_TR Pin=T?-3
+Added Pin To Net: NetName=12V_AUX_TR Pin=TP?-2
+Added Net: Name=12V_AUX_TR
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=CM?-3
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetCM?_2 Pin=CM?-2
+Added Pin To Net: NetName=NetCM?_2 Pin=D?-3
+Added Net: Name=NetCM?_2
+Added Pin To Net: NetName=NetCM?_4 Pin=CM?-4
+Added Pin To Net: NetName=NetCM?_4 Pin=D?-4
+Added Net: Name=NetCM?_4
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=T?-2
+Added Pin To Net: NetName=NetD?_1 Pin=TP?-2
+Added Pin To Net: NetName=NetD?_1 Pin=U?-5
+Added Pin To Net: NetName=NetD?_1 Pin=U?-6
+Added Pin To Net: NetName=NetD?_1 Pin=U?-7
+Added Pin To Net: NetName=NetD?_1 Pin=U?-8
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_3 Pin=D?-3
+Added Pin To Net: NetName=NetD?_3 Pin=R?-2
+Added Net: Name=NetD?_3
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=J?-1
+Added Pin To Net: NetName=NetF?_1 Pin=J?-1
+Added Net: Name=NetF?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=TP?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-4
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=VTR_12VA Pin=D?-2
+Added Pin To Net: NetName=VTR_12VA Pin=T?-10
+Added Net: Name=VTR_12VA
+Added Pin To Net: NetName=VTR_12VB Pin=D?-2
+Added Pin To Net: NetName=VTR_12VB Pin=T?-8
+Added Net: Name=VTR_12VB
+Added Pin To Net: NetName=VTR_12VC Pin=D?-2
+Added Pin To Net: NetName=VTR_12VC Pin=T?-6
+Added Net: Name=VTR_12VC
+Added Class: Name=Undefined
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component C? AVX 08053C225KAT2A
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component CM? KEMET SC-03-10G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component D? MMSZ4705T1G
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component F? Littelfuse 0461.500ER
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J? TE Connectivity 282836-2
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component M? M3 hex Standoff
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component R? Res,0805,100kO,1%,100ppm,CRCW0805100KFKEA
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component T? EE20 Transformer
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component TP? Keystone 5014
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component U? Infineon ICE2QR2280GXUMA1
+Added Member To Class: ClassName=LV_P Member=Wire 12V_AUX_TR
+Added Member To Class: ClassName=V3_S Member=Wire 12VA_GND
+Added Member To Class: ClassName=V3_S Member=Wire 12VB_GND
+Added Member To Class: ClassName=V3_S Member=Wire 12VC_GND
+Added Member To Class: ClassName=HV_P Member=Wire NetC?_1
+Added Member To Class: ClassName=V3_S Member=Wire NetC?_1
+Added Member To Class: ClassName=LV_P Member=Wire NetC?_2
+Added Member To Class: ClassName=HV_P Member=Wire NetD?_1
+Added Member To Class: ClassName=HV_P Member=Wire NetD?_2
+Added Member To Class: ClassName=LV_P Member=Wire NetD?_3
+Added Member To Class: ClassName=V3_S Member=Wire NetR?_1
+Added Member To Class: ClassName=LV_P Member=Wire NetR?_2
+Added Member To Class: ClassName=V3_S Member=Wire VTR_12VA
+Added Member To Class: ClassName=V3_S Member=Wire VTR_12VB
+Added Member To Class: ClassName=V3_S Member=Wire VTR_12VC

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=EARTH Pin=J1-4
+Added Pin To Net: NetName=EARTH Pin=J1-5
+Added Member To Class: ClassName=Eload Aux Supply Module Rev 2 Member=Component J1 Qualtek 703W-00/54
