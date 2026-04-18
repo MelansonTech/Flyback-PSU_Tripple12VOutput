@@ -39,11 +39,3 @@ Safety and Compliance: The power supply meets international safety standards, su
 Thermal Management: Active or passive cooling is employed to manage heat dissipation, especially when the load demands significant power.
 Conclusion:
 The Triple Isolated Output 120V Mains Flyback Power Supply is an efficient, reliable solution for applications requiring multiple isolated DC outputs from a single AC mains input. With a compact design, built-in protection features, and the ability to deliver stable, regulated voltages, this power supply is ideal for a range of industrial, medical, and consumer electronics applications. The flyback topology ensures high efficiency, making it a versatile choice for powering systems where safety, space, and efficiency are critical.
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Ch
